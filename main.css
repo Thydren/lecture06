@@ -1,0 +1,12 @@
+#section p {
+    font-family: 'Times New Roman', "Comic Sans", serif;
+    line-height: 1.5em;
+    text-indent: 5em;
+}
+.noindent {
+    text-indent: 0!important;
+}
+
+tr:hover {
+    background-color: aqua;
+}
